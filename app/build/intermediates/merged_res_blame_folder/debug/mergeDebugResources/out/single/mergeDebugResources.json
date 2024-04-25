@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_washingmachine.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\washingmachine.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_moredetails.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\moredetails.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\xml_activity_splash_scene.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\xml\\activity_splash_scene.xml"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/layout_fragment_inbox.xml.flat",
+        "source": "com.example.powerapp-main-34:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/layout_fragment_menu.xml.flat",
+        "source": "com.example.powerapp-main-34:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_circle_background.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/drawable_edit_eeltical_devices.png.flat",
+        "source": "com.example.powerapp-main-34:/drawable/edit_eeltical_devices.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_inbox.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\inbox.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_promotion.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\promotion.png"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/drawable_exit.png.flat",
+        "source": "com.example.powerapp-main-34:/drawable/exit.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/layout_activity_login_screen.xml.flat",
+        "source": "com.example.powerapp-main-34:/layout/activity_login_screen.xml"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/drawable_telephone.png.flat",
+        "source": "com.example.powerapp-main-34:/drawable/telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_rounded_message.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\rounded_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_user.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\raw_record.mp4.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\raw\\record.mp4"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_aircondetion.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\aircondetion.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_powericon.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\powericon.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_lamp.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\lamp.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_discount.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\discount.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_circle_shape.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_rounded_login.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\rounded_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_chief.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\chief.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_fragment_power.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\fragment_power.xml"
+    },
+    {
+        "merged": "com.example.powerapp-debug-32:/drawable_plug.png.flat",
+        "source": "com.example.powerapp-main-34:/drawable/plug.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\xml_activity_splash_scene2.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\xml\\activity_splash_scene2.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_exclamation.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\exclamation.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_circular_progressbar.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\circular_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_fragment_inbox.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_refrigerator.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\refrigerator.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_smarthomeillustration.jpg.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\smarthomeillustration.jpg"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_boy.jpeg.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\boy.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_fragment_promotions.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\fragment_promotions.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_rightarrow.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_home.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_rectangle.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\rectangle.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_cashback.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\cashback.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_power.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\power.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_rounded_edit_text.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\rounded_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_giftbox.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\giftbox.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\drawable_checked.png.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\drawable\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-debug-32:\\layout_activity_login_screen.xml.flat",
+        "source": "C:\\Users\\p\\.gradle\\daemon\\8.4\\com.example.powerapp-main-34:\\layout\\activity_login_screen.xml"
+    }
+]

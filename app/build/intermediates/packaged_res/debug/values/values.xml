@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="brown">#546565</color>
+    <color name="button_normal_color">#B2E1E0</color>
+    <color name="button_pressed_color">#6B8F8E</color>
+    <color name="end_gradient">#3F7877</color>
+    <color name="gray">#E5E6E6</color>
+    <color name="green">#76C5C0</color>
+    <color name="light_gray">#848484</color>
+    <color name="light_green">#C4DAD9</color>
+    <color name="nav_circle">#A9DFDE</color>
+    <color name="start_gradient">#86F2EF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Power App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color" type="color">@color/nav_circle</item>
+    </style>
+    <style name="Base.Theme.PowerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/white</item>
+    </style>
+    <style name="CustomCardCorners" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearance_custom_corners</item>
+    </style>
+    <style name="CustomImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomLeft">80dp</item>
+        <item name="cornerSizeBottomRight">80dp</item>
+        <item name="cornerSizeTopLeft">80dp</item>
+        <item name="cornerSizeTopRight">80dp</item>
+
+    </style>
+    <style name="ShapeAppearance_custom_corners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeBottomLeft">60dp</item>
+        <item name="cornerSizeBottomRight">60dp</item>
+    </style>
+    <style name="Theme.PowerApp" parent="Base.Theme.PowerApp"/>
+</resources>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".PromotionsFragment">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_view"
+        style="@style/CustomCardCorners"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:backgroundTint="@color/green"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_image"
+            style="@style/CustomCardCorners"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:background="@drawable/circle_background"
+                android:src="@drawable/boy" />
+
+        </androidx.cardview.widget.CardView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="45dp"
+            android:text="Welcome Ali"
+            android:textSize="26sp" />
+    </com.google.android.material.card.MaterialCardView>
+
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        app:layout_constraintTop_toBottomOf="@id/card_view"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/black_friday">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                style="@style/CustomCardCorners"
+                app:layout_constraintTop_toBottomOf="@id/card_view"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_width="270dp"
+                android:layout_height="200dp"
+                android:layout_marginHorizontal="22dp"
+                android:layout_marginVertical="70dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginBottom="44dp"
+                android:backgroundTint="@color/gray"
+                app:cardCornerRadius="44dp"
+                app:cardElevation="10dp"
+                app:strokeColor="@color/black"
+                app:strokeWidth="3dp">
+
+                <TextView
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:text="Today Offers"
+                    android:textStyle="bold"
+                    android:layout_marginTop="45dp"
+                    android:layout_marginStart="8dp"
+                    android:textSize="40dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/discount"
+                    android:layout_marginStart="110dp"/>
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+            <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                style="@style/CustomCardCorners"
+                app:layout_constraintTop_toBottomOf="@id/card_view"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_width="270dp"
+                android:layout_height="200dp"
+                android:layout_marginHorizontal="22dp"
+                android:layout_marginVertical="70dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginBottom="44dp"
+                android:backgroundTint="@color/gray"
+                app:cardCornerRadius="44dp"
+                app:cardElevation="10dp"
+                app:strokeColor="@color/black"
+                app:strokeWidth="3dp">
+
+                <TextView
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:text="friday Offers"
+                    android:textStyle="bold"
+                    android:layout_marginTop="45dp"
+                    android:layout_marginStart="8dp"
+                    android:textSize="40dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/giftbox"
+                    android:layout_marginStart="110dp"/>
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/black_friday"
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/cash_back">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                style="@style/CustomCardCorners"
+                app:layout_constraintTop_toBottomOf="@id/card_view"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_width="270dp"
+                android:layout_height="200dp"
+                android:layout_marginHorizontal="22dp"
+                android:layout_marginVertical="70dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginBottom="44dp"
+                android:backgroundTint="@color/gray"
+                app:cardCornerRadius="44dp"
+                app:cardElevation="10dp"
+                app:strokeColor="@color/black"
+                app:strokeWidth="3dp">
+
+                <TextView
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:text="Cash Back"
+                    android:textStyle="bold"
+                    android:layout_marginTop="45dp"
+                    android:layout_marginStart="8dp"
+                    android:textSize="40dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cashback"
+                    android:layout_marginStart="110dp"/>
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+            <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                style="@style/CustomCardCorners"
+                app:layout_constraintTop_toBottomOf="@id/card_view"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_width="270dp"
+                android:layout_height="200dp"
+                android:layout_marginHorizontal="22dp"
+                android:layout_marginVertical="70dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginBottom="44dp"
+                android:backgroundTint="@color/gray"
+                app:cardCornerRadius="44dp"
+                app:cardElevation="10dp"
+                app:strokeColor="@color/black"
+                app:strokeWidth="3dp">
+
+                <TextView
+                    android:layout_width="130dp"
+                    android:layout_height="130dp"
+                    android:text="More Details"
+                    android:textStyle="bold"
+                    android:layout_marginTop="45dp"
+                    android:layout_marginStart="8dp"
+                    android:textSize="40dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/moredetails"
+                    android:layout_marginStart="110dp"/>
+
+
+
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
