@@ -1,4 +1,4 @@
-#Thu Apr 25 23:09:18 EET 2024
+#Tue Apr 30 12:04:42 EEST 2024
 base.0=D\:\\Android projects\\power-app-mast\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\Android projects\\power-app-mast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\Android projects\\power-app-mast\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex

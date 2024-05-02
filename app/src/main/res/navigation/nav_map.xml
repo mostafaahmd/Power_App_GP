@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_map"
+    app:startDestination="@id/frame_register">
+
+    <fragment
+        android:id="@+id/frame_register"
+        android:name="com.example.powerapp.RegisterationFragment"
+        android:label="HomeFragment">
+
+        <action
+            android:id="@+id/action_registerFragment_to_packageFragment"
+            app:destination="@id/frame_package" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/frame_package"
+        android:name="com.example.powerapp.PackageFragment"
+        android:label="OtherFragment"
+        tools:ignore="MissingClass" />
+</navigation>

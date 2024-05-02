@@ -36,6 +36,7 @@ class HomeFragment : Fragment() {
     }
      override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+         var textViewHome = view.findViewById<TextView>(R.id.welcome_text_view)
         val progressBar = view.findViewById<ProgressBar>(R.id.offer_progress_home)
          val table = arguments?.getString("table")
         val textView = view.findViewById<TextView>(R.id.text_view_home)
@@ -62,6 +63,7 @@ class HomeFragment : Fragment() {
                     val responseData = response.body!!.string()
                     activity?.runOnUiThread {
                         // textView.text = responseData
+                        textViewHome.text = username
                         progressBar.progress = responseData.toIntOrNull() ?: 0
                     }
                 } else {

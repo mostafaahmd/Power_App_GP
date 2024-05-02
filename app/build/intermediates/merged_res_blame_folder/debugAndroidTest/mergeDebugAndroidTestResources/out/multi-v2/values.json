@@ -4,7 +4,7 @@
             "outputFile": "com.example.powerapp.test.app-mergeDebugAndroidTestResources-3:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Program Files\\Java\\jdk-17\\caches\\transforms-3\\426327c24a588d1907ce69817999d6a4\\transformed\\core-1.5.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\p\\.gradle\\caches\\transforms-3\\426327c24a588d1907ce69817999d6a4\\transformed\\core-1.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",

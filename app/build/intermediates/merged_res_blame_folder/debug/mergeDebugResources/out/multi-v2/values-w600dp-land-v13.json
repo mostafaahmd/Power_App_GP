@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.powerapp-mergeDebugResources-30:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "outputFile": "com.example.powerapp-mergeDebugResources-43:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\p\\.gradle\\caches\\transforms-3\\27ff749e4a95e2222ee1ca3d80170fff\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",

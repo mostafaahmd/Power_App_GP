@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.powerapp-mergeDebugResources-30:/values-v16/values-v16.xml",
+            "outputFile": "com.example.powerapp-mergeDebugResources-43:/values-v16/values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\p\\.gradle\\caches\\transforms-3\\9774f64a93b869576966493735f39f1a\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
