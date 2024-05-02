@@ -9,39 +9,14 @@
   <androidx.constraintlayout.widget.ConstraintLayout
       android:layout_width="match_parent"
       android:layout_height="match_parent">
-      <com.google.android.material.card.MaterialCardView
-          android:id="@+id/card_view"
-          style="@style/CustomCardCorners"
-          android:layout_width="match_parent"
-          android:layout_height="150dp"
-          android:backgroundTint="@color/green"
-         app:layout_constraintTop_toTopOf="parent"
-          app:layout_constraintStart_toStartOf="parent">
-
-          <androidx.cardview.widget.CardView
-              android:id="@+id/card_image"
-              style="@style/CustomCardCorners"
-              android:layout_width="wrap_content"
-              android:layout_height="wrap_content">
-
-              <ImageView
-                  android:layout_width="100dp"
-                  android:layout_height="100dp"
-                  android:background="@drawable/circle_background"
-                  android:src="@drawable/boy" />
-
-          </androidx.cardview.widget.CardView>
-
-
-          <TextView
-              android:layout_width="wrap_content"
-              android:layout_height="wrap_content"
-              android:layout_marginLeft="150dp"
-              android:layout_marginTop="45dp"
-              android:text="Welcome Ali"
-              android:textSize="26sp" />
-      </com.google.android.material.card.MaterialCardView>
-
+      <include
+          android:id="@+id/card_xml"
+          layout="@layout/card_view"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent" />
       <Button
           android:id="@+id/day_button"
           android:layout_width="wrap_content"
@@ -54,7 +29,7 @@
           android:clickable="true"
           android:enabled="true"
           android:backgroundTint="@drawable/button_selector"
-          app:layout_constraintTop_toBottomOf="@id/card_view"
+          app:layout_constraintTop_toBottomOf="@id/card_xml"
           app:layout_constraintStart_toStartOf="parent"
           />
 
@@ -70,7 +45,7 @@
           android:clickable="true"
           android:enabled="true"
           android:backgroundTint="@drawable/button_selector"
-          app:layout_constraintTop_toBottomOf="@id/card_view"
+          app:layout_constraintTop_toBottomOf="@id/card_xml"
           app:layout_constraintStart_toEndOf="@id/day_button"
           />
 
@@ -86,7 +61,7 @@
           android:clickable="true"
           android:enabled="true"
           android:backgroundTint="@drawable/button_selector"
-          app:layout_constraintTop_toBottomOf="@id/card_view"
+          app:layout_constraintTop_toBottomOf="@id/card_xml"
           app:layout_constraintStart_toEndOf="@id/month_button"
           />
 
